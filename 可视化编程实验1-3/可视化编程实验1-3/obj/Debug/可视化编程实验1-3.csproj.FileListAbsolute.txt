@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\CODE\作业代码库\数据结构实验\可视化编程实验1-3\可视化编程实验1-3\bin\Debug\可视化编程实验1-3.exe.config
+C:\Users\user\Desktop\CODE\作业代码库\数据结构实验\可视化编程实验1-3\可视化编程实验1-3\bin\Debug\可视化编程实验1-3.exe
+C:\Users\user\Desktop\CODE\作业代码库\数据结构实验\可视化编程实验1-3\可视化编程实验1-3\bin\Debug\可视化编程实验1-3.pdb
+C:\Users\user\Desktop\CODE\作业代码库\数据结构实验\可视化编程实验1-3\可视化编程实验1-3\obj\Debug\可视化编程实验1-3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CODE\作业代码库\数据结构实验\可视化编程实验1-3\可视化编程实验1-3\obj\Debug\可视化编程实验1-3.exe
+C:\Users\user\Desktop\CODE\作业代码库\数据结构实验\可视化编程实验1-3\可视化编程实验1-3\obj\Debug\可视化编程实验1-3.pdb

@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\CODE\作业代码库\数据结构实验\可视化编程实验1-2\可视化编程实验1-2\bin\Debug\可视化编程实验1-2.exe.config
+C:\Users\user\Desktop\CODE\作业代码库\数据结构实验\可视化编程实验1-2\可视化编程实验1-2\bin\Debug\可视化编程实验1-2.exe
+C:\Users\user\Desktop\CODE\作业代码库\数据结构实验\可视化编程实验1-2\可视化编程实验1-2\bin\Debug\可视化编程实验1-2.pdb
+C:\Users\user\Desktop\CODE\作业代码库\数据结构实验\可视化编程实验1-2\可视化编程实验1-2\obj\Debug\可视化编程实验1-2.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CODE\作业代码库\数据结构实验\可视化编程实验1-2\可视化编程实验1-2\obj\Debug\可视化编程实验1-2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CODE\作业代码库\数据结构实验\可视化编程实验1-2\可视化编程实验1-2\obj\Debug\可视化编程实验1-2.exe
+C:\Users\user\Desktop\CODE\作业代码库\数据结构实验\可视化编程实验1-2\可视化编程实验1-2\obj\Debug\可视化编程实验1-2.pdb

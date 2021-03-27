@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\user\desktop\jisuanji\作业代码库\数据结构实验简易计算器（链式栈）\数据结构实验简易计算器（链式栈）\main.cpp(10): warning C4018: “<=”: 有符号/无符号不匹配
+c:\users\user\desktop\jisuanji\作业代码库\数据结构实验简易计算器（链式栈）\数据结构实验简易计算器（链式栈）\main.cpp(90): warning C4018: “<”: 有符号/无符号不匹配
+  数据结构实验简易计算器（链式栈）.vcxproj -> C:\Users\user\Desktop\jisuanji\作业代码库\数据结构实验简易计算器（链式栈）\Debug\数据结构实验简易计算器（链式栈）.exe

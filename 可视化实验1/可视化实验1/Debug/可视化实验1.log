@@ -1,0 +1,6 @@
+﻿  main.cs
+c:\users\user\desktop\code\作业代码库\数据结构实验\可视化实验1\可视化实验1\main.cs(1): error C2873: “System”: 符号不能用在 using 声明中
+c:\users\user\desktop\code\作业代码库\数据结构实验\可视化实验1\可视化实验1\main.cs(4): error C3381: “text”: 只有在用 /clr 选项编译的代码中才有程序集访问说明符
+c:\users\user\desktop\code\作业代码库\数据结构实验\可视化实验1\可视化实验1\main.cs(5): error C2062: 意外的类型“void”
+c:\users\user\desktop\code\作业代码库\数据结构实验\可视化实验1\可视化实验1\main.cs(6): error C2334: “{”的前面有意外标记；跳过明显的函数体
+c:\users\user\desktop\code\作业代码库\数据结构实验\可视化实验1\可视化实验1\main.cs(30): fatal error C1004: 发现意外的文件尾

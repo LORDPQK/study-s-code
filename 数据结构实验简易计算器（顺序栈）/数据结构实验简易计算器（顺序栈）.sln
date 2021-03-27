@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "数据结构实验简易计算器（顺序栈）", "数据结构实验简易计算器（顺序栈）\数据结构实验简易计算器（顺序栈）.vcxproj", "{FB90CDDF-402A-469D-9920-AD5A9E143C9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB90CDDF-402A-469D-9920-AD5A9E143C9E}.Debug|x64.ActiveCfg = Debug|x64
+		{FB90CDDF-402A-469D-9920-AD5A9E143C9E}.Debug|x64.Build.0 = Debug|x64
+		{FB90CDDF-402A-469D-9920-AD5A9E143C9E}.Debug|x86.ActiveCfg = Debug|Win32
+		{FB90CDDF-402A-469D-9920-AD5A9E143C9E}.Debug|x86.Build.0 = Debug|Win32
+		{FB90CDDF-402A-469D-9920-AD5A9E143C9E}.Release|x64.ActiveCfg = Release|x64
+		{FB90CDDF-402A-469D-9920-AD5A9E143C9E}.Release|x64.Build.0 = Release|x64
+		{FB90CDDF-402A-469D-9920-AD5A9E143C9E}.Release|x86.ActiveCfg = Release|Win32
+		{FB90CDDF-402A-469D-9920-AD5A9E143C9E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E2DF5D2-4DD9-4A02-93FA-2C03B444A736}
+	EndGlobalSection
+EndGlobal

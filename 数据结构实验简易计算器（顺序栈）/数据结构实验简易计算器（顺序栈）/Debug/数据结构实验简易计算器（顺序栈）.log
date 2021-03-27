@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\user\desktop\code\作业代码库\数据结构实验\数据结构实验简易计算器（顺序栈）\数据结构实验简易计算器（顺序栈）\main.cpp(12): warning C4018: “<=”: 有符号/无符号不匹配
+c:\users\user\desktop\code\作业代码库\数据结构实验\数据结构实验简易计算器（顺序栈）\数据结构实验简易计算器（顺序栈）\main.cpp(92): warning C4018: “<”: 有符号/无符号不匹配
+  数据结构实验简易计算器（顺序栈）.vcxproj -> C:\Users\user\Desktop\CODE\作业代码库\数据结构实验\数据结构实验简易计算器（顺序栈）\Debug\数据结构实验简易计算器（顺序栈）.exe
